@@ -70,6 +70,13 @@ html {
   height: 40vh;
 }
 
+.midContainer6
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 40vh;
+}
+
 .bottomContainer
 {
   border: 1px solid red;
@@ -176,7 +183,7 @@ html {
   border: 1px solid blue;
   margin-top: 20px;
   width: 50vw;
-  height: 30vh;
+  height: 35vh;
 }
 
 .items8{
@@ -184,10 +191,82 @@ html {
   margin: 37px;
   margin-top: 20px;
   width: 35vw;
-  height: 20vh;
+  height: 25vh;
 }
 
 .boxItems6
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+/* FOURTH MID CONTAINER */
+.items9{
+  border: 1px solid blue;
+  margin-top: 49px;
+  width: 35vw;
+  height: 25vh;
+  padding-left: 30px;
+}
+
+.items10{
+  border: 1px solid blue;
+  margin: 37px;
+  margin-top: 20px;
+  width: 50vw;
+  height: 35vh;
+}
+
+.boxItems7
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+/* FIFTH MID CONTAINER */
+.items11{
+  border: 1px solid blue;
+  margin-top: 49px;
+  width: 35vw;
+  height: 25vh;
+  padding-left: 30px;
+}
+
+.items12{
+  border: 1px solid blue;
+  margin: 37px;
+  margin-top: 20px;
+  width: 50vw;
+  height: 35vh;
+}
+
+.boxItems8
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+/* SIXTH MID CONTAINER */
+.items13{
+  border: 1px solid blue;
+  margin-top: 49px;
+  width: 35vw;
+  height: 25vh;
+  padding-left: 30px;
+}
+
+.items14{
+  border: 1px solid blue;
+  margin: 37px;
+  margin-top: 20px;
+  width: 50vw;
+  height: 35vh;
+}
+
+.boxItems9
 {
   display: flex;
   flex-flow: row-wrap;
