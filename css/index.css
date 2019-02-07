@@ -85,13 +85,14 @@ html {
 }
 
 /* box elements */
+/*  TOP BAR CONTAINER */
 .boxItems .item {
   border: 1px solid blue;
   margin: 2px;
   margin-top: 6px;
   margin-right: 30px;
   width: 5vw;
-  height: 2vw;
+  height: 2vh;
 }
 
 .boxItems{
@@ -100,6 +101,7 @@ html {
   justify-content: flex-end;
 }
 
+/*  NAV BAR CONTAINER */
 .boxItems2 .item2 {
   border: 1px solid blue;
   margin: 5px;
@@ -109,8 +111,8 @@ html {
   padding-right: 5px;
   padding-top: 7px;
   padding-bottom: 7px;
-  width: 7vw;
-  height: 2vw;
+  width: 10vw;
+  height: 2vh;
 }
 
 .boxItems2{
@@ -118,3 +120,31 @@ html {
   flex-flow: row-wrap;
   justify-content: flex-end;
 }
+
+/* JUMBOTRON CONTAINER */
+.item3
+{
+  border: 1px solid blue;
+  margin: 5px;
+  margin-top: 20px;
+  width: 80vw;
+  height: 50vh;
+}
+
+.item4
+{
+  border: 1px solid blue;
+  margin: 5px;
+  margin-top: 20px;
+  width: 40vw;
+  height: 30vh;
+}
+
+.boxItems3
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+/* FIRST MID CONTAINER */
