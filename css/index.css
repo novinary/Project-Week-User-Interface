@@ -16,6 +16,18 @@
   height: 4vh;
 }
 
+.navBarContainer {
+  border: 1px solid red;
+  height: 10vh;
+}
+
+.jumbotronContainer{
+  border: 1px solid red;
+  width: 80vw;
+  height: 70vh;
+  margin-right: 10vw;
+  margin-left: 10vw; 
+}
 /*
 .mid-content {
   width: 100vw;
