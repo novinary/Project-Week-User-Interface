@@ -1,17 +1,21 @@
-.pink {
-  background-color: #b94fa8;
-}
 /*.jumbotron {
 }
 */
 
-.mainContainer {
-  margin: 2% 0;
-  display: flex;
+.mainContainer
+{
+  padding: rem-calc(20);
+  border: 1px solid green;
   width: 100vw;
   height: 100vh;
-  border: 1px solid #00ba73;
 }
+
+.topBarContainer {
+  padding: 0.2% 3%;
+  border: 1px solid red;
+  height: 4vh;
+}
+
 /*
 .mid-content {
   width: 100vw;
