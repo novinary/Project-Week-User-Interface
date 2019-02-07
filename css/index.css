@@ -7,9 +7,12 @@
   height: 100vh;
 }
 */
+/* border web layout */
+html {
+  box-sizing: border-box;
+}
 
 .topBarContainer {
-  padding: 0.2% 3%;
   border: 1px solid red;
   height: 4vh;
 }
@@ -78,5 +81,19 @@
 {
   border: 1px solid red;
   width: 100vw;
-  height: 70vh;
+  height: 60vh;
+}
+
+/* box elements */
+.boxItems .item {
+  border: 1px solid blue;
+  margin: 2px;
+  width: 5vw;
+  height: 2vw;
+}
+
+.boxItems{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
 }
