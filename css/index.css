@@ -1,6 +1,3 @@
-/*.jumbotron {
-}
-*/
 /*
 .mainContainer
 {
@@ -72,8 +69,14 @@
 
 .bottomContainer
 {
-  position: absolute;
   border: 1px solid red;
   width: 100vw;
   height: 15vh;
+}
+
+.footer
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 70vh;
 }
