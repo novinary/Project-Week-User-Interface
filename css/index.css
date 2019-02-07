@@ -88,11 +88,32 @@ html {
 .boxItems .item {
   border: 1px solid blue;
   margin: 2px;
+  margin-top: 6px;
+  margin-right: 30px;
   width: 5vw;
   height: 2vw;
 }
 
 .boxItems{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+.boxItems2 .item2 {
+  border: 1px solid blue;
+  margin: 5px;
+  margin-top: 20px;
+  margin-right: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  width: 7vw;
+  height: 2vw;
+}
+
+.boxItems2{
   display: flex;
   flex-flow: row-wrap;
   justify-content: flex-end;
