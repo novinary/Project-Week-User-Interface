@@ -1,7 +1,7 @@
 /*.jumbotron {
 }
 */
-
+/*
 .mainContainer
 {
   padding: rem-calc(20);
@@ -9,6 +9,7 @@
   width: 100vw;
   height: 100vh;
 }
+*/
 
 .topBarContainer {
   padding: 0.2% 3%;
@@ -28,13 +29,43 @@
   margin-right: 10vw;
   margin-left: 10vw; 
 }
-/*
-.mid-content {
+
+.midContainer1{
+  border: 1px solid red;
   width: 100vw;
-  height: 50vh;
-  border: 1px solid #00ba73;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  height: 15vh;
 }
-*/
+
+.midContainer2{
+  border: 1px solid red;
+  width: 100vw;
+  height: 35vh;
+}
+
+.midContainer3
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 40vh;
+}
+
+.midContainer3
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 40vh;
+}
+
+.midContainer4
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 40vh;
+}
+
+.midContainer5
+{
+  border: 1px solid red;
+  width: 100vw;
+  height: 40vh;
+}
