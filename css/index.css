@@ -148,3 +148,48 @@ html {
 }
 
 /* FIRST MID CONTAINER */
+.boxitems4 .item5{
+  border: 1px solid blue;
+  margin: 10px;
+  margin-top: 20px;
+  height: 10vh;
+}
+
+/* SECOND MID CONTAINER */
+.boxItems5 .items6{
+  border: 1px solid blue;
+  margin: 37px;
+  margin-top: 20px;
+  width: 25vw;
+  height: 20vh;
+}
+
+.boxItems5
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
+
+/* THIRD MID CONTAINER */
+.items7{
+  border: 1px solid blue;
+  margin-top: 20px;
+  width: 50vw;
+  height: 30vh;
+}
+
+.items8{
+  border: 1px solid blue;
+  margin: 37px;
+  margin-top: 20px;
+  width: 35vw;
+  height: 20vh;
+}
+
+.boxItems6
+{
+  display: flex;
+  flex-flow: row-wrap;
+  justify-content: flex-end;
+}
