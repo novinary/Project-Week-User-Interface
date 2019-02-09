@@ -77,7 +77,6 @@ h1, h2, h3, h4, h5 {
 }
 
 .navBarContainer {
-  border: 1px solid red;
   height: 10vh;
 }
 
@@ -154,7 +153,6 @@ h1, h2, h3, h4, h5 {
 /*  TOP BAR CONTAINER */
 .topBar{
   display: flex;
-  flex-flow: row-wrap;
   justify-content: flex-end;
 }
 
@@ -163,7 +161,7 @@ h1, h2, h3, h4, h5 {
   margin-top: 3px;
   color: white;
   justify-content: center;
-  font-size: 1.1rem;
+  font-size: 11px;
   padding: 0 20 px;
   letter-spacing: 0.15em;
   font-family: 'Lato', sans-serif;
@@ -175,23 +173,26 @@ h1, h2, h3, h4, h5 {
 }
 
 /*  NAV BAR CONTAINER */
-.boxItems2 .item2 {
-  border: 1px solid blue;
-  margin: 5px;
-  margin-top: 20px;
-  margin-right: 30px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-top: 7px;
-  padding-bottom: 7px;
-  width: 10vw;
-  height: 2vh;
+.navBar{
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 8px;
 }
 
-.boxItems2{
-  display: flex;
-  flex-flow: row-wrap;
-  justify-content: flex-end;
+.navBar a{
+  margin: 0 9px;
+  margin-top: 3px;
+  padding: 8px 14px;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  color: #f68e1e;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  line-height:  1.1em;
+}
+
+.navBar .donate{
+  border: 2px solid #ff9c00;
 }
 
 /* JUMBOTRON CONTAINER */
