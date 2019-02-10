@@ -81,7 +81,6 @@ h1, h2, h3, h4, h5 {
 }
 
 .jumbotronContainer{
-  border: 1px solid red;
   width: 80vw;
   height: 70vh;
   margin-right: 10vw;
@@ -196,6 +195,31 @@ h1, h2, h3, h4, h5 {
 }
 
 /* JUMBOTRON CONTAINER */
+.jumbotronContainer 
+{
+  border:1px solid blue;
+  padding: 15px;
+  display: flex;
+  justify-content: flex-end;
+
+}
+.image1 .sideDetail
+{
+  width: 183%;
+  max-width: 838px;
+  margin: 0;
+}
+
+.sideDetail{
+  width: 100%;
+  min-height: 343px;
+  padding: 60px;
+  background: #ff9c00;  
+  color: #FFFFF9;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+}
+
 .item3
 {
   border: 1px solid blue;
