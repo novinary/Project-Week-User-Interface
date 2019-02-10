@@ -88,9 +88,9 @@ h1, h2, h3, h4, h5 {
 }
 
 .midContainer1{
-  border: 1px solid red;
   width: 100vw;
   height: 15vh;
+  background-color:#999999;
 }
 
 .midContainer2{
@@ -197,60 +197,38 @@ h1, h2, h3, h4, h5 {
 /* JUMBOTRON CONTAINER */
 .jumbotronContainer 
 {
-  border:1px solid blue;
-  padding: 15px;
   display: flex;
-  justify-content: flex-end;
-
+  justify-content: center;
 }
-.image1 .sideDetail
+.image1 
 {
-  width: 183%;
-  max-width: 838px;
-  margin: 0;
+  margin: 5px;
+  margin-top: 20px;
+  width: 35vw;
+  height: 55vh;
 }
 
 .sideDetail{
-  width: 100%;
-  min-height: 343px;
+  margin-top: 50px;
+  margin-right:50px;
+  width: 20vw;
+  height: 30vh;
   padding: 60px;
   background: #ff9c00;  
   color: #FFFFF9;
   letter-spacing: 0.05em;
+  font-size:  1.4rem;
   font-weight: 400;
 }
 
-.item3
-{
-  border: 1px solid blue;
-  margin: 5px;
-  margin-top: 20px;
-  width: 80vw;
-  height: 50vh;
-}
-
-.item4
-{
-  border: 1px solid blue;
-  margin: 5px;
-  margin-top: 20px;
-  width: 40vw;
-  height: 30vh;
-}
-
-.boxItems3
-{
-  display: flex;
-  flex-flow: row-wrap;
-  justify-content: flex-end;
-}
-
 /* FIRST MID CONTAINER */
-.boxItems4 .item5{
-  border: 1px solid blue;
+.midText{
   margin: 10px;
   margin-top: 20px;
   height: 10vh;
+  background-color:#999999;
+  color: #FFFFF9; 
+  padding-top: 20px;
 }
 
 /* SECOND MID CONTAINER */
