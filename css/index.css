@@ -93,10 +93,10 @@ h1, h2, h3, h4, h5 {
   background-color:#999999;
 }
 
-.midContainer2{
-  border: 1px solid red;
+.boxItems5{
   width: 100vw;
   height: 35vh;
+  background-color:#999999;
 }
 
 .midContainer3
@@ -233,7 +233,6 @@ h1, h2, h3, h4, h5 {
 
 /* SECOND MID CONTAINER */
 .boxItems5 .items6{
-  border: 1px solid blue;
   margin: 37px;
   margin-top: 20px;
   width: 25vw;
@@ -244,7 +243,8 @@ h1, h2, h3, h4, h5 {
 {
   display: flex;
   flex-flow: row-wrap;
-  justify-content: flex-end;
+  justify-content: center;
+  background-color:#999999;
 }
 
 /* THIRD MID CONTAINER */
