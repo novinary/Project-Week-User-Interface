@@ -107,7 +107,6 @@ h1, h2, h3, h4, h5 {
 
 .midContainer4
 {
-  border: 1px solid red;
   width: 100vw;
   height: 40vh;
 }
@@ -261,8 +260,12 @@ h1, h2, h3, h4, h5 {
 }
 
 /* FOURTH MID CONTAINER */
+.midContainer4 .boxItems7 .itemTitle{
+font-size: 24px;
+padding-bottom: 10px;
+color: #ff9c00;  
+}
 .items9{
-  border: 1px solid blue;
   margin-top: 49px;
   width: 35vw;
   height: 25vh;
@@ -270,8 +273,6 @@ h1, h2, h3, h4, h5 {
 }
 
 .items10{
-  border: 1px solid blue;
-  margin: 37px;
   margin-top: 20px;
   width: 50vw;
   height: 35vh;
@@ -279,9 +280,7 @@ h1, h2, h3, h4, h5 {
 
 .boxItems7
 {
-  display: flex;
-  flex-flow: row-wrap;
-  justify-content: flex-end;
+  display: block;
 }
 
 /* FIFTH MID CONTAINER */
