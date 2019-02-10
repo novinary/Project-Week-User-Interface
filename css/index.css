@@ -101,14 +101,6 @@ h1, h2, h3, h4, h5 {
 
 .midContainer3
 {
-  border: 1px solid red;
-  width: 100vw;
-  height: 40vh;
-}
-
-.midContainer3
-{
-  border: 1px solid red;
   width: 100vw;
   height: 40vh;
 }
@@ -249,14 +241,12 @@ h1, h2, h3, h4, h5 {
 
 /* THIRD MID CONTAINER */
 .items7{
-  border: 1px solid blue;
   margin-top: 20px;
   width: 50vw;
   height: 35vh;
 }
 
 .items8{
-  border: 1px solid blue;
   margin: 37px;
   margin-top: 20px;
   width: 35vw;
