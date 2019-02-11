@@ -195,6 +195,12 @@ h5 {
 .footer{
   background-color: #999999;
 }
+
+h2{
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
 /* box elements */
 /*  TOP BAR CONTAINER */
 .topBar {
@@ -322,7 +328,7 @@ h5 {
   margin-top: -103px;
   margin-right: -30px;
   width: 45vw;
-  height: 60vh;
+  height: 50vh;
   float: right;
 }
 
@@ -362,7 +368,7 @@ h5 {
   margin-top: -103px;
   margin-right: -30px;
   width: 45vw;
-  height: 60vh;
+  height: 50vh;
   float: right;
 }
 
@@ -382,7 +388,7 @@ h5 {
   margin-top: -103px;
   margin-right: -30px;
   width: 45vw;
-  height: 60vh;
+  height: 50vh;
   float: right;
 }
 
@@ -440,9 +446,23 @@ li {
   list-style: none;
 }
 
-.footerChart .footerSignUp
+ .footerSignUp
 {
-  margin: 0 2.5% 20px 2.5%;
-  float: right;
-  width: 27%;
+  color: black;
+  font-size: 0.9rem;
+  margin-top: -347px;
+  margin-left: 662px;
+}
+
+.button2 {
+  background-color: #999999;
+  border: 2px solid white;
+  color: white;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 17px;
+  line-height: 1.58em;
+  margin-top: 35px;
+  font-weight: bold;
 }
