@@ -411,4 +411,38 @@ h5 {
 .footer{
   color:#ffffff;
 }
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+.helpfulLinks{
+  display:flex;
+  flex-direction: row;
+}
 
+ ul{
+  display: block;
+  list-style-type: disc;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  list-style: none;
+ }
+
+ .socialMedia{
+  display: block;
+  list-style-type: disc;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  list-style: none;
+}
+
+.footerChart .footerSignUp
+{
+  margin: 0 2.5% 20px 2.5%;
+  float: right;
+  width: 27%;
+}
