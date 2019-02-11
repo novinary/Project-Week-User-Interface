@@ -195,11 +195,6 @@ h5 {
   height: 40vh;
 }
 
-.midContainer5 {
-  width: 100vw;
-  height: 40vh;
-}
-
 .midContainer6 {
   border: 1px solid red;
   width: 100vw;
@@ -374,24 +369,23 @@ h5 {
 }
 
 /* FIFTH MID CONTAINER */
+.midContainer5 .boxItems8 .itemTitle2 {
+  font-size: 24px;
+  padding-bottom: 10px;
+  margin-top: 310px;
+  color: #ff9c00;
+}
+
 .items11 {
-  margin-top: 49px;
-  width: 35vw;
-  height: 25vh;
-  padding-left: 30px;
+  margin-top: -103px;
+  margin-right: -30px;
+  width: 45vw;
+  height: 60vh;
+  float: right;
 }
 
-.items12 {
-  margin: 37px;
-  margin-top: 20px;
-  width: 50vw;
-  height: 35vh;
-}
-
-.boxItems8 {
-  display: flex;
-  flex-flow: row-wrap;
-  justify-content: flex-end;
+.boxItems9 {
+  margin-top: 30px;
 }
 
 /* SIXTH MID CONTAINER */
