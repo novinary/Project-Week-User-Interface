@@ -192,6 +192,9 @@ h5 {
     margin-top: 187px;
 }
 
+.footer{
+  background-color: #999999;
+}
 /* box elements */
 /*  TOP BAR CONTAINER */
 .topBar {
@@ -405,11 +408,7 @@ h5 {
 }
 
 /* FOOTER CONTAINER */
-.items16 {
+.footer{
+  color:#ffffff;
 }
 
-.items17 {
-}
-
-.footerLeft {
-}
