@@ -185,7 +185,12 @@ h5 {
   background-color: #999999;
 }
 
-
+.bottomContainer{
+    height: 17vh;
+    width: 100vw;
+    background-color: #ff9c00;
+    margin-top: 187px;
+}
 
 /* box elements */
 /*  TOP BAR CONTAINER */
@@ -382,12 +387,15 @@ h5 {
   margin-top: 30px;
 }
 /* BOTTOM CONTAINER */
-.boxItems10 .item15 {
-  border: 1px solid blue;
-  margin: 10px;
-  margin-top: 30px;
-  height: 6vh;
-  width: 40vh;
+.item15 {
+  color: #ffffff;
+  border-color: #ffffff;
+  border: 2px solid #ffffff;
+  font: 'Lato', sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  padding: 0.5em 1.75em; 
+  margin: 2em 0;
 }
 
 .boxItems10 {
