@@ -185,20 +185,20 @@ h5 {
   background-color: #999999;
 }
 
-.bottomContainer{
-    height: 17vh;
-    width: 100vw;
-    background-color: #ff9c00;
-    margin-top: 187px;
+.bottomContainer {
+  height: 17vh;
+  width: 100vw;
+  background-color: #ff9c00;
+  margin-top: 187px;
 }
 
-.footer{
+.footer {
   background-color: #999999;
 }
 
-h2{
+h2 {
   color: white;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 /* box elements */
@@ -400,10 +400,10 @@ h2{
   color: #ffffff;
   border-color: #ffffff;
   border: 2px solid #ffffff;
-  font: 'Lato', sans-serif;
+  font: "Lato", sans-serif;
   font-weight: 900;
   letter-spacing: 0.15em;
-  padding: 0.5em 1.75em; 
+  padding: 0.5em 1.75em;
   margin: 2em 0;
 }
 
@@ -414,29 +414,19 @@ h2{
 }
 
 /* FOOTER CONTAINER */
-.footer{
-  color:#ffffff;
+.footer {
+  color: #ffffff;
 }
 li {
   display: list-item;
   text-align: -webkit-match-parent;
 }
-.helpfulLinks{
-  display:flex;
+.helpfulLinks {
+  display: flex;
   flex-direction: row;
 }
 
- ul{
-  display: block;
-  list-style-type: disc;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-inline-start: 40px;
-  list-style: none;
- }
-
- .socialMedia{
+ul {
   display: block;
   list-style-type: disc;
   margin-block-end: 1em;
@@ -446,8 +436,17 @@ li {
   list-style: none;
 }
 
- .footerSignUp
-{
+.socialMedia {
+  display: block;
+  list-style-type: disc;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  list-style: none;
+}
+
+.footerSignUp {
   color: black;
   font-size: 0.9rem;
   margin-top: -347px;
