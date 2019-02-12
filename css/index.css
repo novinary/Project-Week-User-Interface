@@ -494,10 +494,6 @@ input {
   background-color: #999999;
 }
 
-.navBarContainer {
-  height: 10vh;
-}
-
 .jumbotronContainer {
   width: 80vw;
   height: 70vh;
@@ -560,34 +556,7 @@ a {
   color: black;
 }
 
-/*  NAV BAR CONTAINER */
-.navBar {
-  display: flex;
-  justify-content: flex-end;
-  padding-top: 8px;
-}
-
-.navBar a {
-  margin: 0 9px;
-  margin-top: 3px;
-  padding: 8px 14px;
-  font-family: "Lato", sans-serif;
-  font-size: 13px;
-  color: #f68e1e;
-  font-weight: 900;
-  letter-spacing: 0.1em;
-  line-height: 1.1em;
-}
-
-.navBar .donate {
-  border: 2px solid #ff9c00;
-}
-
 /* JUMBOTRON CONTAINER */
-.jumbotronContainer {
-  display: flex;
-  justify-content: center;
-}
 .image1 {
   margin: 5px;
   margin-top: 20px;
