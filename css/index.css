@@ -558,10 +558,11 @@ a {
 
 /* JUMBOTRON CONTAINER */
 .image1 {
-  margin: 5px;
-  margin-top: 20px;
-  width: 35vw;
+  margin: -74px;
+  margin-top: 13px;
+  width: auto;
   height: 55vh;
+  max-width:100%
 }
 
 .sideDetail {
