@@ -201,6 +201,10 @@ h2 {
   font-family: "Lato", sans-serif;
 }
 
+a{
+  color:white;
+}
+
 /* box elements */
 /*  TOP BAR CONTAINER */
 .topBar {
@@ -421,12 +425,12 @@ li {
   display: list-item;
   text-align: -webkit-match-parent;
 }
+
 .helpfulLinks {
   display: flex;
-  flex-direction: row;
 }
 
-ul {
+ul{
   display: block;
   list-style-type: disc;
   margin-block-end: 1em;
@@ -434,17 +438,13 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
   list-style: none;
-  margin-top: 20px
+  margin-top: 20px;
 }
 
 .socialMedia {
-  display: block;
-  list-style-type: disc;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
   padding-inline-start: 40px;
   list-style: none;
+  display: flex;
 }
 
 .footerSignUp {
