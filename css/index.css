@@ -434,6 +434,7 @@ ul {
   margin-inline-end: 0px;
   padding-inline-start: 40px;
   list-style: none;
+  margin-top: 20px
 }
 
 .socialMedia {
@@ -449,7 +450,7 @@ ul {
 .footerSignUp {
   color: black;
   font-size: 0.9rem;
-  margin-top: -347px;
+  margin-top: -350px;
   margin-left: 662px;
 }
 
