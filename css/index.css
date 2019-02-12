@@ -483,7 +483,8 @@ input {
 @media (max-width: 500px) 
 {
   body {
-		width: 500px;
+    width: 500px;
+    background-color: #999999;
 	}
   /* Layout container */
 .container {
@@ -587,37 +588,44 @@ br {
 }
 
 /* FIRST MID CONTAINER */
+.midContainer1{
+  margin-top: -70px;
+}
+
 .midText {
   margin: 10px;
   margin-top: 20px;
-  height: 10vh;
+  height: -2vh;
   background-color: #999999;
   color: #fffff9;
   padding-top: 20px;
+  align-content: center;
+  text-align: center;
 }
 
 /* SECOND MID CONTAINER */
-.boxItems5 .items6 {
+.boxItems5  {
   margin: 37px;
-  margin-top: 20px;
+  margin-top: 111px;
   width: 18vw;
   height: 23vh;
 }
 
-.boxItems5 {
-  display: flex;
-  justify-content: center;
-  background-color: #999999;
+.items6
+{
+ width: 95vw;
+ height: 50vh;;
+ margin-left: -26px;
+ margin-bottom: 35px;
 }
-.midText {
-  align-content: center;
-  text-align: center;
-}
+
+
 /* THIRD MID CONTAINER */
 .items7 {
   margin-top: 20px;
   width: 50vw;
   height: 35vh;
+  margin-bottom: 10px;
 }
 
 .items8 {
