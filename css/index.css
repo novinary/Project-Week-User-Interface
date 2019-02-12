@@ -569,16 +569,21 @@ a {
 }
 
 .sideDetail {
-  margin-top: 50px;
+  margin-top: 46px;
   margin-right: 50px;
-  width: 20vw;
+  margin-left: -48px;
+  width: 101vw;
   height: 15vh;
-  padding: 60px;
+  padding: 40px;
   background: #ff9c00;
   color: #fffff9;
   letter-spacing: 0.05em;
   font-size: 1.4rem;
   font-weight: 400;
+}
+
+br {
+  display: none;
 }
 
 /* FIRST MID CONTAINER */
