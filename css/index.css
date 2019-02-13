@@ -751,36 +751,41 @@ h5 {
   }
 
   ul {
-    display: block;
-    list-style-type: disc;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
     list-style: none;
     margin-top: 20px;
+    margin-left: -48px;
+    padding-right: 155px;
   }
 
   .socialMedia {
-    padding-inline-start: 40px;
     list-style: none;
-    display: flex;
+    margin-left: -51px;
   }
 
   .footerSignUp {
     color: black;
     font-size: 0.9rem;
+    padding-top: 125px;
+    margin-left: -49px;
   }
+
   input {
-    width: 25vh;
+    width: 56vh;
     padding: 7px;
     margin-top: 3px;
+    margin-left: -20px;
     margin-bottom: 20px;
+    text-align: center;
+    display: block;
   }
   .label {
     font-weight: bold;
+    margin-left: 141px;
   }
 
+  .footerText {
+    text-align: center;
+  }
   .button2 {
     background-color: #999999;
     border: 2px solid white;
@@ -791,5 +796,11 @@ h5 {
     margin-top: 5px;
     font-weight: bold;
     width: 25vh;
+    margin-left: 90px;
+  }
+
+  .newsletterSuccessHidden
+  {
+    padding-bottom: 49px;
   }
 }
