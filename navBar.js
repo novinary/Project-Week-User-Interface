@@ -1,4 +1,4 @@
-class navBar {
+class Navbar {
   constructor(element) {
     // Assign this.element to the navBar element
     this.element = element;
@@ -28,6 +28,4 @@ class navBar {
 }
 
 // Nothing to do here, just study what the code is doing and move on to the navBar class
-let navBars = document
-  .querySelectorAll(".navBar")
-  .forEach(navBar => new navBar(navBar));
+let navBars = document.querySelectorAll('.navBar').forEach( navBar => new Navbar(navBar));
