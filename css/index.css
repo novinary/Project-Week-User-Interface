@@ -519,7 +519,7 @@ h5 {
     height: 17vh;
     width: 100vw;
     background-color: #ff9c00;
-    margin-top: 302px;
+    margin-top: 0px;
   }
 
   .footer {
@@ -702,6 +702,7 @@ h5 {
   .midContainer6{
     background-color: white;
     margin-top: -30px;
+    padding-bottom: 94px;
   }
 
   .itemTitle3 {
@@ -728,8 +729,9 @@ h5 {
     font: "Lato", sans-serif;
     font-weight: 900;
     letter-spacing: 0.15em;
-    padding: 0.5em 1.75em;
-    margin: 3em 0;
+    margin: 4em 0;
+    font-size: 14px;
+    padding: 5px;
   }
 
   .boxItems10 {
