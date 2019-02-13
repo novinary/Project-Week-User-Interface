@@ -562,18 +562,21 @@ a {
 }
 
 /* JUMBOTRON CONTAINER */
+.jumbotronContainer{
+  height: 57vh;
+}
 .image1 {
   margin: -49px;
   margin-top: -50px;
-  width: 101vw;
-  height: 55vh;
+  width: 102vw;
+  height: 40vh;
 }
 
 .sideDetail {
   margin-top: 46px;
   margin-right: 50px;
   margin-left: -48px;
-  width: 101vw;
+  width: 102vw;
   height: 15vh;
   padding: 40px;
   background: #ff9c00;
