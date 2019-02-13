@@ -636,14 +636,12 @@ h5 {
     height: 38vh;
   }
 
-  
-
   /* FOURTH MID CONTAINER */
-  .midContainer4{
+  .midContainer4 {
     background-color: white;
     margin-top: -46px;
   }
-   .itemTitle {
+  .itemTitle {
     font-size: 23px;
     margin-top: 332px;
     margin-left: -52px;
@@ -671,14 +669,13 @@ h5 {
     margin-top: 35px;
     font-weight: bold;
   }
-  
 
   /* FIFTH MID CONTAINER */
-  .midContainer5{
+  .midContainer5 {
     background-color: white;
     margin-top: -30px;
   }
-   .itemTitle2 {
+  .itemTitle2 {
     font-size: 23px;
     margin-top: 387px;
     margin-left: -52px;
@@ -699,7 +696,7 @@ h5 {
   }
 
   /* SIXTH MID CONTAINER */
-  .midContainer6{
+  .midContainer6 {
     background-color: white;
     margin-top: -30px;
     padding-bottom: 94px;
@@ -773,8 +770,6 @@ h5 {
   .footerSignUp {
     color: black;
     font-size: 0.9rem;
-    margin-top: -350px;
-    margin-left: 609px;
   }
   input {
     width: 25vh;
