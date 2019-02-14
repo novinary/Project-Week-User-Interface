@@ -173,6 +173,8 @@ h5 {
     height: 70vh;
     margin-right: 10vw;
     margin-left: 10vw;
+    margin-top: -59px;
+    margin-bottom: -76px;
   }
 
   .midContainer1 {
@@ -491,7 +493,7 @@ h5 {
   .button2 {
     background-color: #999999;
     border: 2px solid white;
-    color: #ff9c00;
+    color: white;
     padding-top: 8px;
     padding-bottom: 8px;
     line-height: 1.58em;
